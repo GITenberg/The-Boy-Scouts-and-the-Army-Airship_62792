@@ -1,5 +1,8 @@
 _repo: The-Boy-Scouts-and-the-Army-Airship_62792
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62792-h/images/cover.jpg
 creator:
   author:
     agent_name: Goldfrap, John Henry
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1974
     wikipedia: https://en.wikipedia.org/wiki/John_Henry_Goldfrap
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62792#The-Boy-Scouts-and-the-Army-Airship
 gutenberg_issued: '2020-07-31'
 gutenberg_type: Text
 identifiers:
